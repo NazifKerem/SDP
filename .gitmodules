@@ -1,0 +1,3 @@
+[submodule "train/yolov5-for_train"]
+	path = train/yolov5-for_train
+	url = https://github.com/ultralytics/yolov5.git
